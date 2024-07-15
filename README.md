@@ -1,2 +1,5 @@
-# Curso-python
-Repositorio curso python
+# Python
+
+Repositorio del curso de fundamentos de python desde 0 
+
+## Contenidos
